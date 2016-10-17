@@ -1,5 +1,7 @@
 package Sortirovki.sortirovki;
 
+import java.util.Random;
+
 public class SortMain 
 {
 	public static void main( String[] args )
