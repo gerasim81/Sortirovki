@@ -1,7 +1,7 @@
 package Sortirovki.sortirovki;
 
 public class Brush {
-	public int[] sortBrush(int[] arrayToSort) {//сортировка расческой
+	public int[] sortBrush(int[] arrayToSort) {
 		int temp;
 		int step = (int)(arrayToSort.length/1.24);
 		boolean changeFlg = false;
