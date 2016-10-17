@@ -2,7 +2,7 @@ package Sortirovki.sortirovki;
 
 public class Shaker {
 	public int[] sortShaker(int[] arrayToSort) {
-		/*int temp;
+		int temp;
 		int counter1=0;
 		int counter2=0;
 		int reverseFlag=0;
@@ -37,7 +37,7 @@ public class Shaker {
 				break;
 			}
 			fullArrayCounter++;
-		}*/
+		}
 
 		return arrayToSort;		
 	}
