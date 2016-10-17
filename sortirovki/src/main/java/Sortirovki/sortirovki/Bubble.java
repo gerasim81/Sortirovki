@@ -1,7 +1,7 @@
 package Sortirovki.sortirovki;
 
 public class Bubble {
-	public int[] sortBubble(int[] arrayToSort) {//сортировка пузырьком
+	public int[] sortBubble(int[] arrayToSort) {
 		int temp;
 		if (arrayToSort.length == 0) return arrayToSort;
 		for (int i =0; i < arrayToSort.length;i++){
